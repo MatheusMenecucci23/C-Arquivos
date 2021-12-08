@@ -1,0 +1,18 @@
+===========================
+vendas1.dat
+- 30 registros
+- 10 códigos distintos
+- Primeiros registros (para checagem apenas):
+
+codigo: 6116; comentario: ""; quantidade: 7.8, valor: 9.16
+codigo: 6116; comentario: ""; quantidade: 8.7, valor: 4.93
+codigo: 676; comentario: "cobranca em atraso"; quantidade: 2.8, valor: 6.91
+codigo: 676; comentario: ""; quantidade: 2.7, valor: 5.41
+codigo: 4350; comentario: "desconto da promocao"; quantidade: 1.2, valor: 13.69
+...
+
+===========================
+vendas2.dat
+- 1.675.986 registros
+- 50 códigos distintos
+
